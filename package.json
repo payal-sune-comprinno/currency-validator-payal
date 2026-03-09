@@ -1,0 +1,26 @@
+{
+  "name": "currency-validator-payal",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/payal-sune-comprinno/currency-validator-payal#readme",
+  "bugs": {
+    "url": "https://github.com/payal-sune-comprinno/currency-validator-payal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payal-sune-comprinno/currency-validator-payal.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Payal Sune",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
